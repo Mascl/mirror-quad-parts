@@ -12,6 +12,7 @@ Add shortcut via Preferences > Shortcuts > Run plugin mirror-quad-parts
 _Recommended shortcut: CMD Option M_
 
 ## To Do
+* Add support for lyrics
 * Add support for single spock (boolean)
 * Mapping is based on drum kit export (.drm file)
 * Update README.md for Windows
