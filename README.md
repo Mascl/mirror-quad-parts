@@ -4,6 +4,8 @@ Supported on MuseScore 4.5
 
 ## How to Install
 1. Put mirror-quad-parts.qml in Documents/MuseScore4/Plugins
+2. Select passage
+3. Plugsin > mirror-quad-parts
 
 ## Recommendation
 Add shortcut via Preferences > Shortcuts > Run plugin mirror-quad-parts
